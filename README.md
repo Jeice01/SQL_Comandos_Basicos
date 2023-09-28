@@ -16,6 +16,22 @@ Este repositório contém uma seleção de comandos SQL fundamentais para inicia
 
 Para executar esses comandos, é necessário ter um ambiente MySQL configurado. Abra o terminal ou o cliente MySQL e copie e cole os comandos conforme necessário.
 
+## Arquivos SQL de Exemplo
+
+Para facilitar o aprendizado, disponibilizamos arquivos SQL de exemplo que você pode baixar e executar no seu ambiente MySQL que estão localizados nesse repositório:
+
+- [banco_categorias.sql]
+- [banco_clientes.sql]
+- [banco_locais.sql]
+- [banco_lojas.sql]
+- [banco_pedidos.sql]
+- [banco_produtos.sql]
+
+
+## Utilização
+
+Para executar esses comandos, é necessário ter um ambiente MySQL configurado. Abra o terminal ou o cliente MySQL e copie e cole os comandos conforme necessário.
+
 Tenha em mente que este repositório é uma introdução e há muito mais para aprender sobre SQL e bancos de dados relacionais. Consulte a [documentação oficial do MySQL](https://dev.mysql.com/doc/) para informações mais detalhadas.
 
 Espero que este repositório seja útil para quem está começando com SQL no MySQL. Se precisar de ajuda adicional, sinta-se à vontade para abrir uma issue ou contribuir com melhorias.
